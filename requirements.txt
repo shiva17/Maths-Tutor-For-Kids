@@ -1,0 +1,2 @@
+wolframalpha==4.0.0
+streamlit==0.63.0
